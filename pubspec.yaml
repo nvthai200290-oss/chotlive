@@ -1,0 +1,21 @@
+name: chotlive
+description: Ung dung nhan binh luan TikTok LIVE va in phieu nhiet tuc thoi.
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web_socket_channel: ^2.4.5
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  shared_preferences: ^2.2.3
+  print_bluetooth_thermal: ^1.1.1
+  permission_handler: ^11.3.1
+  intl: ^0.19.0
+
+flutter:
+  uses-material-design: true
