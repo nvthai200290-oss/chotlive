@@ -344,11 +344,12 @@ class _MainShellState extends State<MainShell> {
                     child: Text(
                       widget.commentSource.statusMessage,
                       style: const TextStyle(fontSize: 12, color: Colors.white70),
+                      maxLines: 2,
                       overflow: TextOverflow.ellipsis,
                     ),
                   ),
                   Text(
-                    'P95: ${widget.telemetry.totalRelayToUiP95} ms | SL: ${_comments.length}',
+                    'Nhận: ${widget.commentSource.receivedChatCount} | Thiếu: ${widget.commentSource.incompleteChatCount}',
                     style: const TextStyle(
                       fontSize: 12,
                       color: Colors.amberAccent,
@@ -416,9 +417,11 @@ class _MainShellState extends State<MainShell> {
                                       children: [
                                         Expanded(
                                           child: Text(
-                                            item.uniqueId.trim().isEmpty
-                                                ? 'ID TikTok: chưa xác định'
-                                                : 'ID TikTok: @${item.uniqueId.trim()}',
+                                            item.uniqueId.trim().isNotEmpty
+                                                ? 'ID TikTok: @${item.uniqueId.trim()}'
+                                                : (item.userId.trim().isNotEmpty
+                                                    ? 'UID TikTok: ${item.userId.trim()}'
+                                                    : 'ID TikTok: chưa được TikTok cung cấp'),
                                             style: const TextStyle(
                                               color: Colors.lightBlueAccent,
                                               fontWeight: FontWeight.w600,
