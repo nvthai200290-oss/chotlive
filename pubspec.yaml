@@ -1,7 +1,7 @@
 name: chotlive
 description: Ung dung nhan binh luan TikTok LIVE va in phieu nhiet tuc thoi.
 publish_to: 'none'
-version: 2.0.0+1
+version: 2.0.1+2
 
 environment:
   sdk: '>=3.2.0 <4.0.0'

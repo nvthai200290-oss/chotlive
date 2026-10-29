@@ -1,99 +1,94 @@
-PK  :\]               word/numbering.xml¥”KnÂ0†OĞ; ï!µˆFEí¦»¶ l“Xø¥±Ããöu 
-UÒUÿoÆ“ß3_”ì8:atJÆ£˜¸¦†	¥äëóu8#çA3Fó”¹#ËÅÃ|ŸèB­9†}ƒ€Ğ.Q4%¹÷6‰"Gs®ÀŒå:7øğ‰Y¤ ·…R£,x±Røc4‰ã)©0&%ê¤B• hœÙøR’˜ÍFP^=jvÉ{–¬-×ş”1B.C
-F»\XWÓT_Zæ5d÷×!vJÖûö¶K6†°}VòœhoY4”;VWç`CÇX"E—~æ¬+Q tƒ)İqjrBîªi'T{¶Nv)äzk<ŞV=úy©·¢“‹¯Aå
-lÙ As@_d‚4tËÙ
-è4ffY';_‘˜€Aµ&uwıÙq|e—,oiÙÿhoh
-ÛÚı±íâŸîLn Óû ³[ å‡~Œ((/9‚İÇ™6QÏƒn nëJÂsÄª)xZj®ÀíPş•^Km‰šÄa =
-d-¾PK „pÏ£  š  PK  :\]               word/settings.xml¥–K’Ú0†O;PÚƒdB™E¦&YdVÈ’l«Ğ«$·d[6TÊÒßİ_ËM»å—×OÎfG¢
-•"É"3"ÄT”ø½Ÿ?ƒ™±P`È¤ 8^·_^š!Ö:/3sa6e ²Vm¢È ŠphRáŒ…ÔZ·ÕeÄ¡>Ôj$WĞÒœ2jOQÇkĞcdj-6=bÎ)ÒÒÈÂú,
-ŠHÿ"ô”¼]È›D5'Â¶#M˜;ƒ¦¢Ê”æŒU€ÿõGÎ‚_£¦dÃ6®Ğœu‰©±ÒcœúÖ bO( GSp™3œ„C*Œo+Ğ{ár÷EkQãƒŒµ0lÊA:Ó/šk¨O·§€Ôó<^ÑI]|EpQ¶ÖCC>‚@Ô6 Ø#&ÑàïPáĞÌ¸œÔÎW$La©!›ÔÜõÏ&ñU»ì*¨ÈH+ÿöCËZí¾|„vö&«û é
-`}àù€ÈçcŒÈEs(¾³84Ìƒi 
-ÍÁxÂ·÷S°•†Wàv(ÿ•ã–>Ö£ÒØ
-dˆÚ¶î~!<'x¯k²?)ò.×¬Ù¡	ˆ¼&¬™İÃ|g¥
-Æ¯iÜ™»;f\íºûj€¬€[
-ÈİÜº¸>$&ŞTk:½š>et‘“é"P©.m^&`´¬lâùÖí°»ÛM^¦½-mmigk7!W#çİ/F-
-Ú™ßSĞFm´å¨­‚¶µuĞÖ^«\İ5£âàÊ–^/$c²!øçh¿‘úz„o„íPK µB^7O  h  PK  :\]               word/fontTable.xml¥•Û›0†Ÿ ï€|Ÿ˜DÛh‹–¬ª]uoz×öfmV|ÒØ„ÍÛ×$ÒPU„^şoÆöïñÓó‡VÉQ —Öäd³NI"³\š2'¿~~[=’Ä 0”5"''áÉóşÓS“ÖŸD¹ñ™f9©Bp¥UBƒ_['L5„ø‰%Õ€‡Ú­˜Õ‚|—J†İ¦ét›“MÖ!VZ2´Ş¡•d¶($İ£Wàœ¼É«eµ&œ3R*Ö`¯¤ó=M/¥Å`ÕCÿšÄQ«ş¿ÆÍÉÆš¸Z]5¹CË„÷qôõˆ›tÆ¶ˆA1§„?sö•hfÀ´Î¸
-¹×1w·hgÔ8‘q-¼šSÈ%ô]¾#àiZ,XÏk½“³\|CˆªPã`È%V† –”e Á_Àa03/gÙù†Ä%”z4©¿kg7é]~TàÄH+ÿö†¶v£İ–Ğ®Nàæó}€í°»ğ80ñ±ŒA£òš#ù}œİÀ‘}?˜ à¾%|¡¼ë‚ç¡áL›ò_9ñµÕ¶¨m2°sC&ûîrIšÌ€å+JP„NÆßD4°„6B»ûhÿPK *¿
-ë½  Ñ  PK  :\]               word/styles.xmlÕ—ÿn›0ÇŸ`ïñ
-¡”fÑÒ©?ÔnR×M[÷  8ÁŠ±-Û$Í~!D„,S›‚Ï¾Ï¿>óéókB
-$$ftb
-Ïk€hÈ"Lgë÷ËÃÙÈH4Â(šX+$­Ï×>-ÇR­’íOå8	'V¬Û¶c”€<gQİ9e"¥›bf' æ)?
-YÂAá ¬V¶ë8¾e0lb¥‚
-â,Á¡`’MUæ2fÓ)‘ù+=D—¸…Ë=
-ÓQ•G´": FeŒ¹,iI_šîŒKÈbß$	)Ç-y—h‘€¥^Œ„–LD\°I©­÷EgE:Ì•G—6c–™$€i…ÉJ£ªbŸëØF´µÈZ
-Iº$Rt=á@€Xµ³€zÖı9îTÅ
-‚öR©¨
-²"ŒA¨@ú
-ç(ºº€ª˜£Y§rn"3ÉºHåA+;tåò+Ö´Ùq´GÁR¾.w¯­¶‡—‡ÜÀ?0jBôÚakÏ: G‡qüŠƒËó @œËŒğÑÌ)˜›ª-Ğ>”·rôcæ›¡\GÈæ ²u­ß.|¦%³¦ø!LÓ´ò¿ ¦½ Ë1Èã‰u#0he—ãPÖ¤º‘j¦ø†Êj¼¡äm^€>…\·´ÜÉM›mÛÍtx³•ûsuÁjÁÙéè^ù–iüL‰6@ª˜Árƒ­ƒì–ù
-W#ÔŠkwA17Õkÿ’Y³O2*\õK=”B‚ÊùÔGæ“U)²ÖwˆoP´×.ú1tœìfPÆ^¡ğ#hªö˜R,Ù?FàY¼co&fW	Ûfúmy8ˆìãñ†DÔ¡•0‡â¿ È.Nmd\t†F(úNËŞúJPôª¶ÙMUÍâÏµ!˜™ŸteÉ†Ãİê5¿EúÈ¯ÒqL‰W%
-S…ô¦º¹öA>xby#gÉV;1hÄ
-îš™¬7˜7jo°ÂVÛ`}dwwÊî¾mÙGª_ø§PıÂo«^ØTıb§êïIu÷$µîn©u÷_Ôº·Suïm«îmªîDuo‹êŞ?Pır§ê—ïJu÷$ªw¹8õQİß©ºÿ®TwN¢º³EuçÕ_°ÒËÖ•1·¾i¹ÿËíåjK•_Uå¿Ò@m•¼êxÓª÷½¼4?Ş3åç[­¹ş€«Í'\iÉsÃ™àÖ:†Œ0QÚüüwÌõ´|’×PK Wx@›  H  PK  :\]               word/document.xmlíkoÛF…Áş‡YaI@b],'©RÅpìf·€Svú©(‚19’fMrØ™¡µëÿ¾Ã«l)
-R»v?Øâí%ÅC>‡&õ}ü9È-“Š‹hÖ;„Eğy´˜u~şøşÅëQšF>
-DÄfSã·ûşnê
-/	Y¤‰©©ièÍ:K­ãé` ¼%
-©:1‹ÌÄ¹!ÕfP.!•7IüÂaL5¿æ×«Áx8|Ù)ÊˆY'‘Ñ´(ñ"äJÌuºÈTÌçÜcÅŸr	¹ËzóEÎŠMÎÖ8,0Û "µä±*«…u«™‰Ë²Èí×ŞÄm”óİÅ»¬Í—ôÎÈùŠî„ôc)<¦”{–O¬*†;ìÀ´DµÄ.›ğxå–„”GU™ôàØ(T­ûÀ¬»ØiY©õYï
-ì²!ù¤s~-©\mo­±?.óâ
-f)Èê€¬SÂ[R©ËA
-ğn˜J£[ZÌşb§Ãy£’ÏéBÒp}ªoRv4Ü8\®–4fëj‹fÕş)E¯÷IjÎÀÑÑ·oxùm^oğØçz5fÉ‡u¸ÿmu^VuxÉƒİ
-hªnTZá»AiÙ¨êØ†òë˜—é²i©ñĞ ™z;o¿\
-•şÉİÔØ“9ë‹ŸN1êŒÛ#/¶G]±9Mı…)òÑÈÑdSIô«±£lcâ
-™ş¹a,ş‰}Öfé[š®»3(GŸóˆ©ñ1]°wæ]İ¼cæ|cSï¸/îNE¤¥6|çgëÓ"}÷*¦K§¥¯/^d³G<ÈØ\ï6çµĞZ„»Í+ùb¹kY¦ï‹v™y°~jé›‰s˜©4Ñ¢šÕ
-•yå´9ïÍ:×L¯³=Z<uŸñ«—åÀe°¢bVƒGézÒT,‘½³âõœK¥Ï³Åîÿ·WnGºH±/ò#@¾7‚¥:Såq>ëœHNƒ´Š§0ªô‰âôÁ¨åI¤ªùó]¶!úõéæñÃ7‡·æP!
-‚So×’ßlp„¬Æå‡|>÷ïåØñ¸³^U9.©t4W‚Ål;èg..õIÀQ9íš*–ŠT
-ÙT§˜üÚ¹ı<>ƒ¡ÔÿJ)³CõcL
-ª]ıPø±dŠÉ[Öy{eŞš9q?é;qÆ\«7ÿ.D}2{¶ĞoHt E>K¯SÿÜœk½ñsÒvûoÒê:_G~tX`cX¬ €i¡ü	¹¬¢Ë!èº€.-¤
-”²ãB3¿§õ¯0¿Îd±ğ–TŸüaãµä´ íÁĞŞq¥jĞ9h@|MfäŒjö‘‡ì`.EøÁl WÌ‘¯®xä±Rè•N`åM…#Œ x8®T-#L'2"İüñà&³¯–"‘ıûéæèG‰f_˜{Fÿ¾k¥E¼„EÀ" X„ãJÕ°ˆ{yş
-< ÏA‰ò¼
-Ï_ƒ. 
-èÒBº@)›#^-…Ôåíå<QüÜ ÷Apßq¥œ¢x#€ /0Ç•²â‰"éÚhï`°€ á¸Rµ,"ıÙò Ÿ®ú÷ƒ-{0j-mıXÉ)L & ´ÀWê¯ò±’3ğ< %ZÈó6|¬ä Ğt]ZH(eÓÇJŞ'AP}ª¤|A|mé§JŞûÀ>`ì;®”_Xù8q4„IÀ$€˜„ãJıŸ'šñf`e¶ÉÎ'‹#dfÃ@øëJıE,|
-ƒmäy
-,|
-º€.m¤
-”zâ«E/ J‘s~ËNóoÒ²ò!âa× <¸Â»®T­ûÃykzñ’P-~ô­¼ç‹k0ä ã]Wª9ã“ˆÿ–0K1,j`ğ æ]Wª9æ#îİD4dVbÕÀ<àÌ»®TsÌ{ùy+)¨pPì å]WªåÓ\p}ÉººdŞ­•”G08(v€ò®+Õ”ò'ql-ã‘ù
-Æƒ`¼ëJÕb¼¡û1Ñ?óKùLZÉwvƒï øîºRuùNbi~ŸŠÄÒ;ñÈâßA
-ğİu¥jñ½xÒ˜|‘bşJS¨7d0 ]î ¬KşCº™˜ÙÖÌÏ^3)…´2V
-Ş0 ¦¦Ğ†¶{zƒ. Ké¥ü’óAË}ÏÊ–{ävƒî`èîºRµè&wÿ–pÉ|¢—\d]÷Ï-ÄüÉÛÀ<àÌ»®Ô^0_6Ş[Izdjƒôà HïºR{!}Ù{o%é‘¶
-Òƒ ½ëJí…ôEû½• Gğ9@| ô®+µĞ¯›ğ­d="ĞÁz¬w]©ı°¾hÅ·’ôB éÁŞu¥j’> |ÙŒo%á‘Âƒ ¼ëJ5!üºŸÌÈĞJÌ#˜ <€y×•j‚ù|Ãú¼#ßJà#À F |×•ªüû¾ÁZc„Ÿƒé ˜îºR5˜~o#Ïtƒmäy
-2±ÆˆÙ]@—6ÒJ=ñÕ¢P¥ÈE¬ú‘{7L“±ÆˆÚãA0Şu¥jİå­¾í˜pßÊ¾ÍŞ
-àİu¥à½ø>…,õĞJÆ#ºŒ 9Àx×•jÎø2òĞJÌ#Ã˜ <€y×•jù2ïĞFÌ"Ã˜ <€y×•jù"ìĞJÊ#¿” ;@y×•jöØ•xƒšù'vBÑå€<ĞÈ»®TCÈgá(ç†ó‘·ú ¬$=²ËAzğ¤w]©¤¿pê¯ÏcÊNĞ#¸  >Úú4\",t]ÚH(õä—‘š-{66["*| 5Àw×•ªÅ÷"C•[ù…ô‡ˆÇÚ İu¥j¢ıñ7še½–Vb¡ØÀ<àÌ»®Ô^0_¶[ZIzDeƒôà HïºR{!}Ùqi%é¢
-Òƒ ½ëJí…ôEÓ¥• G9@| ô®+µĞ—­—V¢±æ@= Ô»®Ô^Pÿ¸ÓJŞ#ç¼ EÀ{×•Úï‹.L+iÄsĞí]WªííüjúCÄ›ƒé E™Ş‚Îú	RµAĞ¥tRO~ÅøÆÏı&Õ~NüUDCî=[è7D
-3±×'³lÈÆ¦û	¢¶~ èw]©š·†Ó>'=î“¿ÏH”AŸt¹ß;;ñ'HİïAğŞu¥ğ¾ªÅ§ŒñÖvâO¹
-ÌÀ¼ëJ5Á|Ş€Ÿ“Şæfü	b·{ °w]©&°/{ğ
-ëmnÇŸ ¬ AÀz×•jÂú¢
-ß Şâ~ü	âĞAzğ¤w]©F¤ÏÛğ?Ñö6÷äO‘Ü"À½ëJ5Á}Öšù)È{ñ?…Ê@ßşîü	RÓA~ğäw]©æäWyW~‰ı¢IŸ“™’¡•ğG:à¤ ş®+Uş÷6öëOš¬mÄzúõÕ
-º€.m¤
-”zò‹Æ9õ´+r‘Ş"`şGîİ0}0—"L›õ¿ÒÍÒ¸lå´lÏÆ
-PD|Ã" X„ëJ5¸©ÌıiÊü_Ò~ş_	UÄ0ÿØÊ›ÈÈ÷ìÀŞu¥À>kåŸ’^ü¢ÁÿWr|Lºİşùÿ½¾•øGà7ğ¨ ÿ®+Õ ÿeé ëŞÿ¶˜ Âa@
-LÀu¥˜@Ùø_š@•	Ğ8B;< d ¸®T(J
-(£Úâ ˆs‡€+p ×•jâ eL@åëê1p?õ+;Šğ
- X`®+ÕÀ‡”>°•.Ğ7@<Ü Œ¸®TS7(²Œ<4ƒ2p`Ã	úd6##+ı YñğP~àºRµı ocŞÀbáuÀXw]©X¿·‘ç ÏA‰6ò|§üÅ<Ï/®Òİ°œuFG¯'Yı;óz<Î_
-ÉYd™XH-)/Šxñ¦[œŸUföI>·9q×ùqW‡^9¸dÔ¯ê¹Ù!şj\‚`ñS~\Å©”JS™.X¼™rË éÚıUöÂ^’~JæíPK Çıx³
-  "ö PK  :\]               word/_rels/document.xml.rels­’MjÃ0…OĞ;ˆÙ×²ÓJ‰œMd[Ü(òø‡Z#!MJ}ûŠ”$Ó…—ï‰yóÍŒÖ›;ˆo±w¤ ÈrHÆÕ=µ
->«İãˆÈšj=8B#FØ”ë4§šØõ>ŠBQAÇìß¥Œ¦C«cæ<Rzi\°š“­ôÚ|éå*Ï_e˜f@y“)öµ‚°¯
-Õèñ?Ù®izƒ[g‰ï´œj1êĞ"+8É?³ÈRÈû«%"2§åÆ+ÆÙ™CxZ¡qÄ•>“U\¬9ˆç%!èhÒÜWˆ‹5 ñ²è1xpzŠ“>·—7Ÿ¼üPK  «ëñ   ,  PK  :\]            
-   _rels/.relsÏ;Â0àp‡È;MË€jÒ!uEå Qâ¦ÍCIxôöd` ÄÀhû÷g¹ív&7ŒÉxÇ ©j è¤WÆiçá¸ŞIY8%fïÁ‚	:¾jO8‹\vÒdB"q‰Á”sØSšä„V¤Ê te2úhE.eÔ4yé¦®·4¾À?LÒ+±W
-a	øíÇÑH<xyµèò_‰"‹¨13¸û¨¨zµ«Âå-ıx‘?PK -hÏ"±   *  PK  :\]               word/theme/theme1.xmlíYKoÛ6¿Øw toeÙVêuŠØ±Û­M$n‡i‰–ØP¢@ÒI|Úã€Ãºa‡Øm‡a[Ø¥û4Ù:lĞ¯°¿–)›Î£M·­6Iışï Iùò•Ãˆ¡}"$åqÛr.Ö,Dbû4ÚÖíAÿBËBRáØÇŒÇ¤mMˆ´®¬øÁe¼¦Bô±\Ãm+T*Y³méÁ2–yBbx6â"Â
-¦"°}€oÄìz­¶bG˜ÆŠqloFÔ#h²´Ö§Ì{¾b%Ó‰]/“¨SdXÏIäDv™@û˜µ-ãóƒ9TbX*xĞ¶jÙÇ²×/Û%SKh5º~ö)è
-¯Ñ‰`X:ıæê¥Í’=ç¿ˆëõzİSòË ØóÀRgÛì·œÎ”§Ê‡‹¼»5·Ö¬â5şüj§ÓqW+øÆß\À·j+ÍzßœáİEı;İîJïÎğ+
-øş¥Õ•fŸBFã½tÏ22%dÄÙ5#¼ğÖ4f([Ë®œ>VËr-Â÷¸è 
-.V4Fj’ö ×ÅŒMà5‚µ'ù’'–RYHz‚&ªm}œ`¨ˆäå³_>{‚î?=ºÿËÑƒ G÷6P]Ãq S½øş‹¿}Šşzòİ‹‡_™ñRÇÿşÓg¿ıú¥¨tàó¯ÿñôñóo>ÿó‡‡ø†ÀC> ‘è&9@;<ÃÈPœbbªSlÄÄ1Niè
-+è›Ì°×!UŞĞLÀ«ã{…wC1VÔ ¼Fàç¬Ã…Ñ¦ë©,İ
-ã80
-c·ƒñ¾Ivw.¾½q¹LM,»!©¨¹Í ä8 1Q(}Æ÷1İ¥´â×-ê	.ùH¡»u05ºd@‡ÊLtF—‰IAˆwÅ7[wP‡3ûM²_EBU`fbIXÅWñXáÈ¨1˜¼UhRrw"¼ŠÃ¥‚H „qÔó‰”&š[bRQ÷:´sØ·Ø$ª"…¢{&ä
-Ì¹Üä{İG‰Qg‡:ö#¹ )ŠÑ6WF%xµBÒ9ÄÇKÃ}‡u¶Ú¾MƒĞœ é“±0•áÕzœ°&qÑá+½:¢ñq;‚¾Ï»qC«|şí£ÿQËŞ '˜jf¾Q/ÃÍ·ç.>}û»ó&ÇÛ
-â}s~ßœßÅæ¼¬Ï¿%Ïº°­´36ÑÒS÷ˆ2¶«&ŒÜYÿ–`ß‡Ål’•‡ü$„a!®‚
-ÎÆHpõ	UánˆãdY°$J¸„«…µ”wv?¥`s¶æN/•€Æj‹ûùrC¿l–l²Y uA”Ái…5.½0' Ršãš¥¹ÇJ³5oBİ œ¾JpVê¹hHÌˆŸú=g0
-Ë‘SÓbbŸ–5ûœÆñ¦{&%ÎÇÉµ'Û‹ÕÄâê´­U·îZÈÃIÛÁi	†QüdÚi0
-â¶å©ÜÀ“kqÎâUsV95w™Á‰jË0§ÊM_¥Ä3ıën3õÃù`h&§Ó¢ÑrşC-ìùĞ’ÑˆxjÉÊlZ<ãcEÄnè !‹z7óìò©„N_ŸNäv³H¼jáµ1ÿÊ¦¨Ì’ÙŞÒbŸÃ³q©C6ÓÔ³—èşŠ¦4ÎÑ÷İ5%Í\8Ÿ6üìÒ»¸À(ÍÑ¶Å…
-9t¡$¤^_À¾ŸÉ½”Eªbé
-èTW²?ë[9¼É¡Ú¡:
-!Ûª°ófN]ß§ŒŠ>Sª+“üwHö	¤Õ»’Úo¡pÚM
-Gd¸ù Ù¦êı·øàÒ|¥g&¨y–Í¯©5}m+X}=N³kâêf‹ëîÒg~«Mà–Ò/hÜTxlv<ğˆ>*÷y‰x¡U”_¹8[šq)«ëÔZïó<;jÎn,qöñâ^İÙ®Á×îñ®¶KÔÖî!Ùlá(>¼ ²7áz3fùŠL`–¶Efğû“bÈdŞrGL[:‹wÈQÿpÖ9ÿô”›ùN. µ½$lœLXàg›HI\?™¸¤˜ŞñJâìgbÀf’s|å²E–bñë¸ìÊ›]fÌŞÓºìz—©Ãã]VxÊ6%9Tw§]AşÚ³”]ÿ PK !Z¢„,  Û  PK  :\]               [Content_Types].xmlµ”MNÃ0…OÀ"oQã–B¨i@—À¢Àµ'­…ÿä™”ööLÒ6U‘MdçÍ¼÷-y:ßyWl!£¡“r,
-:Ö•x[.Fw¢@RÁ(Tb(æ³«érŸ 
-nX‰
-Qº—õ¼Â2&¬Ô1{E¼Ík™”~Wk7ãñ­Ô1Që!fÓG¨Uã¨x8üo­+¡RrV+b.Éf¢xÚ±xÀl÷ò }Û`Î`F±®­uã¹¥Œ«ºA®³`“/!ÑÕ¿9Î[fp]
-nlÂëó9XÅ6á…/ [™ä#f“rÔ€Èwç]‰@Ä«cê«Êô¬<ÛÊ¶RÔòx–Ã ĞŞÁw 6h|Í^Kµrp™ — …_Aæõeˆ^¢W¼²á2H_òÄïÁ7‡ßI‡ïä)»Geö	PK k4´ß?  ”  PK   :\]„pÏ£  š                   word/numbering.xmlPK   :\]µB^7O  h               ã  word/settings.xmlPK   :\]*¿
-ë½  Ñ               q  word/fontTable.xmlPK   :\]Wx@›  H               n  word/styles.xmlPK   :\]Çıx³
-  "ö              F
-  word/document.xmlPK   :\] «ëñ   ,               8  word/_rels/document.xml.relsPK   :\]-hÏ"±   *  
-             s  _rels/.relsPK   :\]!Z¢„,  Û               ]  word/theme/theme1.xmlPK   :\]k4´ß?  ”               Ì  [Content_Types].xmlPK    	 	 B  L     
+String _twoDigits(int n) => n.toString().padLeft(2, '0');
+
+
+String formatHms(int epochMs) {
+  final dt = DateTime.fromMillisecondsSinceEpoch(epochMs);
+  return '${_twoDigits(dt.hour)}:${_twoDigits(dt.minute)}:${_twoDigits(dt.second)}';
+}
+
+
+String formatShortDateTime(int epochMs) {
+  final dt = DateTime.fromMillisecondsSinceEpoch(epochMs);
+  return '${_twoDigits(dt.hour)}:${_twoDigits(dt.minute)}:${_twoDigits(dt.second)} '
+      '${_twoDigits(dt.day)}/${_twoDigits(dt.month)}';
+}
+
+
+String formatFullDateTime(DateTime dt) {
+  return '${_twoDigits(dt.hour)}:${_twoDigits(dt.minute)}:${_twoDigits(dt.second)} - '
+      '${_twoDigits(dt.day)}/${_twoDigits(dt.month)}/${dt.year}';
+}
+
+
+class LiveComment {
+  final String msgId;
+  final String uniqueId;
+  final String nickname;
+  final String comment;
+  final int tRelayRecv;
+  final int tAppRecv;
+  int? tUiRender;
+  int printCount;
+  String lastPrintStatus; // 'idle' | 'printing' | 'printed' | 'error'
+
+
+  LiveComment({
+    required this.msgId,
+    required this.uniqueId,
+    required this.nickname,
+    required this.comment,
+    required this.tRelayRecv,
+    required this.tAppRecv,
+    this.tUiRender,
+    this.printCount = 0,
+    this.lastPrintStatus = 'idle',
+  });
+}
+
+
+class PrintedTicket {
+  final int? id;
+  final String msgId;
+  final String uniqueId;
+  final String nickname;
+  final String comment;
+  final int createdAt;
+  final int printLatencyMs;
+  final bool printSuccess;
+
+
+  PrintedTicket({
+    this.id,
+    required this.msgId,
+    required this.uniqueId,
+    required this.nickname,
+    required this.comment,
+    required this.createdAt,
+    required this.printLatencyMs,
+    required this.printSuccess,
+  });
+
+
+  Map<String, dynamic> toMap() => {
+        if (id != null) 'id': id,
+        'msg_id': msgId,
+        'unique_id': uniqueId,
+        'nickname': nickname,
+        'comment': comment,
+        'created_at': createdAt,
+        'print_latency_ms': printLatencyMs,
+        'print_success': printSuccess ? 1 : 0,
+      };
+
+
+  factory PrintedTicket.fromMap(Map<String, dynamic> map) => PrintedTicket(
+        id: map['id'] as int?,
+        msgId: (map['msg_id'] ?? '').toString(),
+        uniqueId: (map['unique_id'] ?? '').toString(),
+        nickname: (map['nickname'] ?? '').toString(),
+        comment: (map['comment'] ?? '').toString(),
+        createdAt: (map['created_at'] as int?) ?? 0,
+        printLatencyMs: (map['print_latency_ms'] as int?) ?? 0,
+        printSuccess: ((map['print_success'] as int?) ?? 0) == 1,
+      );
+}
