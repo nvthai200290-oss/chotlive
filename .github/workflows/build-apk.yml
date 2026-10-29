@@ -65,6 +65,18 @@ jobs:
           flutter pub get
           flutter build apk --release
 
+      - name: Package Windows TikTok LIVE relay
+        uses: actions/upload-artifact@v4
+        with:
+          name: CHOTLIVE-Relay-v2.1-Windows
+          path: |
+            relay/relay.js
+            relay/comment_normalizer.js
+            relay/package.json
+            relay/start-relay-windows.bat
+            relay/README.md
+          if-no-files-found: error
+
       - name: Upload Android APK
         uses: actions/upload-artifact@v4
         with:
