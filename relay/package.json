@@ -1,0 +1,16 @@
+{
+  "name": "chotlive-relay",
+  "version": "2.1.0",
+  "private": true,
+  "description": "TikTok LIVE chat relay for CHOTLIVE Android",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "tiktok-live-connector": "2.5.0",
+    "ws": "^8.18.0"
+  }
+}
