@@ -28,6 +28,9 @@ jobs:
           flutter-version: '3.22.0'
           channel: stable
 
+      - name: Test TikTok LIVE comment payloads (modern and legacy)
+        run: node --test relay/test/comment_normalizer.test.js
+
       - name: Initialize Android project from committed Dart source
         run: |
           flutter create --platforms=android --project-name chotlive --org vn.thaonguyen.chotlive chotlive_build
