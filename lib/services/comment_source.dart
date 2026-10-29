@@ -21,6 +21,18 @@ class CommentSource extends ChangeNotifier {
   String activeRelayUrl = '';
   String activeUniqueId = '';
   bool _manualDisconnect = true;
+  int receivedChatCount = 0;
+  int incompleteChatCount = 0;
+  String relayVersion = 'chưa xác định';
+  
+  static String _text(List<dynamic> options) {
+    for (final value in options) {
+      if (value == null) continue;
+      final text = value.toString().trim();
+      if (text.isNotEmpty) return text;
+    }
+    return '';
+  }
 
 
   // sync: true phat su kien truc tiep trong microtask hien tai, khong tao hang doi trung gian
@@ -124,14 +136,38 @@ class CommentSource extends ChangeNotifier {
 
       // LUONG NONG (HOT PATH): Binh luan day thang len giao dien khong qua bat ky tac vu phu nao
       if (type == 'chat') {
+        final Map<String, dynamic> user = data['user'] is Map<String, dynamic>
+            ? data['user'] as Map<String, dynamic>
+            : <String, dynamic>{};
+        final String username = _text([
+          data['unique_id'], data['uniqueId'], data['displayId'],
+          user['displayId'], user['uniqueId'],
+        ]).replaceFirst(RegExp(r'^@+'), '');
+        final String numericId = _text([data['user_id'], data['userId'], user['id'], user['userId']]);
+        final String content = _text([data['comment'], data['content'], data['text']]);
+
+        // Chỉ hiển thị bình luận có nội dung thật. Không tự đặt tên ID là "khach".
+        if (content.isEmpty) {
+          incompleteChatCount++;
+          statusMessage = 'Relay gửi bình luận rỗng: kiểm tra/cập nhật máy chủ lên v2.1.';
+          notifyListeners();
+          return;
+        }
         final item = LiveComment(
-          msgId: (data['msg_id'] ?? '$tAppRecv').toString(),
-          uniqueId: (data['unique_id'] ?? data['uniqueId'] ?? '').toString().trim().replaceFirst(RegExp(r'^@+'), ''),
-          nickname: (data['nickname'] ?? 'Khách').toString(),
-          comment: (data['comment'] ?? '').toString(),
+          msgId: _text([data['msg_id'], data['msgId'], tAppRecv]),
+          uniqueId: username,
+          userId: numericId,
+          nickname: _text([data['nickname'], user['nickname'], username, 'Người xem TikTok']),
+          comment: content,
           tRelayRecv: (data['t_relay_recv'] as num?)?.toInt() ?? tAppRecv,
           tAppRecv: tAppRecv,
         );
+        receivedChatCount++;
+        if (username.isEmpty && numericId.isEmpty) {
+          incompleteChatCount++;
+          statusMessage = 'Có bình luận nhưng TikTok không trả ID người gửi. Kiểm tra Relay.';
+          notifyListeners();
+        }
         _commentStreamController.add(item);
         return;
       }
@@ -148,6 +184,7 @@ class CommentSource extends ChangeNotifier {
       if (type == 'status') {
         connectionState = (data['state'] ?? 'idle').toString();
         statusMessage = (data['message'] ?? '').toString();
+        relayVersion = _text([data['relay_version'], relayVersion]);
         notifyListeners();
       }
     } catch (_) {}
