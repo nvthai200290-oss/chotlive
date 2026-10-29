@@ -23,6 +23,7 @@ String formatFullDateTime(DateTime dt) {
 class LiveComment {
   final String msgId;
   final String uniqueId;
+  final String userId; // numeric TikTok UID when public @ID is unavailable
   final String nickname;
   final String comment;
   final int tRelayRecv;
@@ -35,6 +36,7 @@ class LiveComment {
   LiveComment({
     required this.msgId,
     required this.uniqueId,
+    this.userId = '',
     required this.nickname,
     required this.comment,
     required this.tRelayRecv,
